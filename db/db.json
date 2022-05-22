@@ -1,0 +1,17 @@
+[
+    {
+        "id": "ce4d57d0-260a-402c-ab86-e38d9606cfc2",
+        "title": "Note1",
+        "text": "This is the text for Note1"
+    },
+    {
+        "id": "4f3789a1-b274-45b6-8fb2-ab08af58ff22",
+        "title": "Note2",
+        "text": "This is the text for Note2"
+    },
+    {
+        "id": "a5bc01c5-1a5d-4987-bd3e-b0a8d65cad23",
+        "title": "Note3",
+        "text": "This is the text for Note3"
+    }
+]
