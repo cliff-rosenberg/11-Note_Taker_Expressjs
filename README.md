@@ -37,7 +37,7 @@ Clicking on a stored note brings up the Title and strored body text:
 
 ## Usage
 
-  The app is hosted 'live' on Heroku: [https://pacific-cove-60324.herokuapp.com/](https://pacific-cove-60324.herokuapp.com/)
+  NOTE: As of November 2022, Heroku has no "free" accounts, so the demo application has been taken offline until another suitable host can be found.
   
   To run locally: The app server is launched by Node, type the command 'node server.js' to start the back-end. Then launch a web browser and go to the URL 'localhost:3001/' to get the inital page.
 
